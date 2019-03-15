@@ -1,5 +1,6 @@
 package giozom
 
+//Must always be imported
 import io.gatling.http.Predef._
 import io.gatling.core.Predef._
 
