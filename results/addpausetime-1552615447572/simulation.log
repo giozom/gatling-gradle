@@ -1,6 +1,0 @@
-RUN	simulations.AddPauseTime		addpausetime	1552615447572	 	2.0
-USER	JSON Placeholder Typicode Posts	1	START	1552615449918	1552615449918
-REQUEST	JSON Placeholder Typicode Posts	1		Get PostID 1	1552615449947	1552615491973	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments for PostID 1	1552615497000	1552615539062	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments	1552615544056	1552615586153	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-USER	JSON Placeholder Typicode Posts	1	END	1552615449918	1552615589150

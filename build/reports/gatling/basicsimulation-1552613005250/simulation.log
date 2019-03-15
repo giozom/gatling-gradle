@@ -1,4 +1,0 @@
-RUN	giozom.BasicSimulation		basicsimulation	1552613005250	 	2.0
-USER	Basic Simulation	1	START	1552613007023	1552613007023
-REQUEST	Basic Simulation	1		Get All Posts	1552613007074	1552613049387	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-USER	Basic Simulation	1	END	1552613007023	1552613054420

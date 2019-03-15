@@ -1,6 +1,0 @@
-RUN	simulations.CheckResponseCode		checkresponsecode	1552616232675	 	2.0
-USER	JSON Placeholder Typicode Posts	1	START	1552616234927	1552616234927
-REQUEST	JSON Placeholder Typicode Posts	1		Get PostID 1	1552616234960	1552616277308	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments for PostID 1	1552616277322	1552616319326	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments	1552616319328	1552616361325	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.2.245:443
-USER	JSON Placeholder Typicode Posts	1	END	1552616234927	1552616361329
