@@ -1,0 +1,4 @@
+RUN	MyFirstTest		myfirsttest	1552613686805	 	2.0
+USER	Retrieve Posts	1	START	1552613688848	1552613688848
+REQUEST	Retrieve Posts	1		Get All Posts	1552613688881	1552613731228	KO	j.n.ConnectException: Connection timed out: no further information: jsonplaceholder.typicode.com/104.28.3.245:443
+USER	Retrieve Posts	1	END	1552613688848	1552613736255

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CheckResponseCode",
+  "simulationId": "checkresponsecode",
+  "start": 1552616232675,
+  "description": "",
+  "scenarios": ["JSON Placeholder Typicode Posts"],
+  "assertions": [
+
+  ]
+}

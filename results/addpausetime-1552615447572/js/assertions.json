@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddPauseTime",
+  "simulationId": "addpausetime",
+  "start": 1552615447572,
+  "description": "",
+  "scenarios": ["JSON Placeholder Typicode Posts"],
+  "assertions": [
+
+  ]
+}
