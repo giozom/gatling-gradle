@@ -24,9 +24,9 @@ Then ***right click*** on the main method (i.e. ```def main(args: Array[String])
 You will find the test report in this location ```~/build/reports/.../index.html ```
 
 # Running test using the gradle task
-~/gradlew gatlingRun
+```~/gradlew gatlingRun```
 or
-~/gradlew gatlingRun-com.concur.[test-name-here]
+```~/gradlew gatlingRun-com.concur.[test-name-here]```
 
 # Other references
 Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
