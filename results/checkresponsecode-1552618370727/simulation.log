@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponseCode		checkresponsecode	1552618370727	 	2.0
+REQUEST	JSON Placeholder Typicode Posts	1		Get PostID 1	1552618371649	1552618371654	KO	j.n.UnknownHostException: https://utmproxy.unisuper.lan
+REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments for PostID 1	1552618371674	1552618371677	KO	j.n.UnknownHostException: https://utmproxy.unisuper.lan
+REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments	1552618371679	1552618371680	KO	j.n.UnknownHostException: https://utmproxy.unisuper.lan
+USER	JSON Placeholder Typicode Posts	1	END	1552618371599	1552618371684
+USER	JSON Placeholder Typicode Posts	1	START	1552618371599	1552618371599

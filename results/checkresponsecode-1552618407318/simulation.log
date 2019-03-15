@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponseCode		checkresponsecode	1552618407318	 	2.0
+USER	JSON Placeholder Typicode Posts	1	START	1552618409354	1552618409354
+REQUEST	JSON Placeholder Typicode Posts	1		Get PostID 1	1552618409387	1552618410253	KO	j.n.s.SSLException: Received fatal alert: handshake_failure
+REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments for PostID 1	1552618410280	1552618410585	KO	j.n.s.SSLException: Received fatal alert: handshake_failure
+REQUEST	JSON Placeholder Typicode Posts	1		Get All Comments	1552618410587	1552618410881	KO	j.n.s.SSLException: Received fatal alert: handshake_failure
+USER	JSON Placeholder Typicode Posts	1	END	1552618409354	1552618410885
