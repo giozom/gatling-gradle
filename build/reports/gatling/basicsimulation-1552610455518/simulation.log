@@ -1,0 +1,4 @@
+RUN	giozom.BasicSimulation		basicsimulation	1552610455518	 	2.0
+USER	Basic Simulation	1	START	1552610457427	1552610457427
+REQUEST	Basic Simulation	1		request_1	1552610457478	1552610478503	KO	j.n.ConnectException: Connection timed out: no further information: api.football-data.org/83.169.21.147:80
+USER	Basic Simulation	1	END	1552610457427	1552610483525

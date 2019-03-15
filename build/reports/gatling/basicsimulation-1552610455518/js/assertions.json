@@ -1,0 +1,10 @@
+{
+  "simulation": "giozom.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1552610455518,
+  "description": "",
+  "scenarios": ["Basic Simulation"],
+  "assertions": [
+
+  ]
+}

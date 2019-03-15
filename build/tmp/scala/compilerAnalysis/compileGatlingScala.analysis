@@ -1,0 +1,161 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\dev\gatling-gradle\build\classes\scala\gatling
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> C:\dev\gatling-gradle\build\classes\scala\gatling
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+1 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\dev\gatling-gradle\build\classes\scala\gatling\giozom\BasicSimulation.class
+binary dependencies:
+5 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-commons\2.2.2\4f92ff0edec4c13b32c26058b4fcf8195b283142\gatling-commons-2.2.2.jar
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-core\2.2.2\f06b4510c0d0e4f40d6985a918a17a8c6025cab9\gatling-core-2.2.2.jar
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-http\2.2.2\fc069524e8d8cf57fd75d488d48019dcac080c8c\gatling-http-2.2.2.jar
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+1 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> giozom.BasicSimulation
+used names:
+66 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> <init>
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> <refinement>
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> <repeated>
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> A
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> ActionBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Any
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> AnyRef
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> AtOnceInjection
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> BasicSimulation
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Class
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> ClassTag
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Duration
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Exclude
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Expression
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> FiniteDuration
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> GatlingConfiguration
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Http
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> HttpProtocol
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> HttpProtocolBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> HttpRequestActionBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> HttpRequestBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> InjectionStep
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Int
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> NOT_FOR_USER_CODE
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> NonValidable
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Nothing
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> PopulationBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Predef
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Protocol
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> ScenarioBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> SetUp
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> Simulation
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> String
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> StringCaster
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> T
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> TypeCaster
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> X
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> _$7
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> apply
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> atOnceUsers
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> baseURL
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> builder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> commons
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> configuration
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> core
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> exec
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> gatling
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> get
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> giozom
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> http
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> httpConf
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> inject
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> intToFiniteDuration
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> io
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> materializeClassTag
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> package
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> pause
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> protocol
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> protocols
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> scenario
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> scn
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> setUp
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> stringToExpression
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> toActionBuilder
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> toHttpProtocol
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> util
+product stamps:
+1 items
+C:\dev\gatling-gradle\build\classes\scala\gatling\giozom\BasicSimulation.class -> lastModified(1552610452310)
+source stamps:
+1 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> hash(3b2c1ac1a612e48cd3fcbec7a46ed03c84abb09c)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> lastModified(1512087373277)
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-commons\2.2.2\4f92ff0edec4c13b32c26058b4fcf8195b283142\gatling-commons-2.2.2.jar -> lastModified(1552609761851)
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-core\2.2.2\f06b4510c0d0e4f40d6985a918a17a8c6025cab9\gatling-core-2.2.2.jar -> lastModified(1552609761318)
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-http\2.2.2\fc069524e8d8cf57fd75d488d48019dcac080c8c\gatling-http-2.2.2.jar -> lastModified(1552609759145)
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar -> lastModified(1552525740580)
+class names:
+5 items
+C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar -> java.lang.Class
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-commons\2.2.2\4f92ff0edec4c13b32c26058b4fcf8195b283142\gatling-commons-2.2.2.jar -> io.gatling.commons.util.TypeCaster$
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-core\2.2.2\f06b4510c0d0e4f40d6985a918a17a8c6025cab9\gatling-core-2.2.2.jar -> io.gatling.core.scenario.Simulation
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\io.gatling\gatling-http\2.2.2\fc069524e8d8cf57fd75d488d48019dcac080c8c\gatling-http-2.2.2.jar -> io.gatling.http.protocol.HttpProtocolBuilder
+C:\Users\GiovanniA\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.8\ddd5a8bced249bedd86fb4578a39b9fb71480573\scala-library-2.11.8.jar -> scala.reflect.ClassTag$
+internal apis:
+1 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpi9QagAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5kKRlHQABm5vdGlmeXNxAH4ADH7u41B0AAlwcm90b2NvbHNzcQB+AAwRYocpdAAFc2V0VXBzcQB+AAxB0P4udAAEd2FpdHNxAH4ADBuww5x0AA1kaXNhYmxlUGF1c2Vzc3EAfgAMUOlPtHQADSRhc0luc3RhbmNlT2ZzcQB+AAw+jyTndAAGZXF1YWxzc3EAfgAMQAALRnQAEWV4cG9uZW50aWFsUGF1c2Vzc3EAfgAMKTl493QADGFzSW5zdGFuY2VPZnNxAH4ADGPfvVJ0AAhodHRwQ29uZnNxAH4ADHiNIrF0AAZiZWZvcmVzcQB+AAyKqubIdAAGcGFyYW1zc3EAfgAMBh2o6HQADHN5bmNocm9uaXplZHNxAH4ADI4BXON0AA0kaXNJbnN0YW5jZU9mc3EAfgAMoxQU23QABnBhdXNlc3NxAH4ADG9+wp90AANzY25zcQB+AAw+lxeYdAAOY29uc3RhbnRQYXVzZXNzcQB+AAzgVKJedAAJbm90aWZ5QWxsc3EAfgAMy9uXH3QADGlzSW5zdGFuY2VPZnNxAH4ADBw2OLV0AAY8aW5pdD5zcQB+AAywS6sRdAAFYWZ0ZXJzcQB+AAyeq2m0dAAKYXNzZXJ0aW9uc3NxAH4ADKgnECR0AAI9PXNxAH4ADFdn6CV0AAVjbG9uZXNxAH4ADICfKyJ0AAttYXhEdXJhdGlvbnNxAH4ADIhN9Nd0AA11bmlmb3JtUGF1c2Vzc3EAfgAMe8K1WnQACHRvU3RyaW5nc3EAfgAMtEtJOnQAD0Jhc2ljU2ltdWxhdGlvbnNxAH4ADEJesbN0AAIhPXNxAH4ADGBMeB50AAhnZXRDbGFzc3NxAH4ADIaQa6h0AAh0aHJvdHRsZXNxAH4ADFiYo9F0AAJuZXNxAH4ADHAI8pV0AAxjdXN0b21QYXVzZXNzcQB+AAw1Y0eudAACZXFzcQB+AAxR9xjbdAAFU2V0VXBzcQB+AAx2zSrSdAACIyNzcQB+AAz9qmdodAAIZmluYWxpemVzcQB+AAzhqMq5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBjeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAWZ2lvem9tLkJhc2ljU2ltdWxhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB7c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGNMAAlpbmhlcml0ZWRxAH4AY0wAB3BhcmVudHNxAH4AY3hxAH4AgHNxAH4Ae3VxAH4AXgAAAABzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAKU2ltdWxhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Af3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AJh0AAdnYXRsaW5nc3EAfgCYdAAEY29yZXNxAH4AmHQACHNjZW5hcmlvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJlzcQB+AIx0AAZPYmplY3RzcQB+AJBzcQB+AJN1cQB+AJYAAAADc3EAfgCYdAAEamF2YXNxAH4AmHQABGxhbmdxAH4Ao3NxAH4AjHQAA0FueXNxAH4AkHNxAH4Ak3VxAH4AlgAAAAJzcQB+AJh0AAVzY2FsYXEAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGZ2lvem9tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFpfstbr3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADFDOlxkZXZcZ2F0bGluZy1ncmFkbGVcYnVpbGRcY2xhc3Nlc1xzY2FsYVxnYXRsaW5ndAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUOywawaYS5IzT/L7HpG7QPISrsJw=
+external apis:
+0 items
+source infos:
+1 items
+C:\dev\gatling-gradle\src\gatling\scala\giozom\BasicSimulation.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaX7LW691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMUM6XGRldlxnYXRsaW5nLWdyYWRsZVxidWlsZFxjbGFzc2VzXHNjYWxhXGdhdGxpbmd0AAEv
