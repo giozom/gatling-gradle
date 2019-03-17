@@ -1,5 +1,5 @@
 # gatling-gradle
-A Gatling gradle demo project using JSON Placeholder Typicode fake API
+A Gatling gradle demo project using JSON Placeholder Typicode sample API
 
 https://jsonplaceholder.typicode.com/
 
@@ -11,8 +11,15 @@ You will need the following pre-installed (If not then install them and ensure J
 * Scala SDK (once installed add to your PATH)
 * IntelliJ Scala Plugin
 
+# Setup your environment
+* Clone project
+* Import/open the project into IntelliJ
+* Ensure you have Auto-import checked
+* Once imported, the project will automatically build
+
 # Using the Gatling runner
-Use the Gatling runner to run your test separately. (one at a time) 
+* Use the Gatling runner (```MyGatlingRunner```) to run your test separately. (one at a time)
+* Open MyGatlingRunner file, and right click on the main method to run the test specified in ```..classOf[MyFirstTest]```
 
 Simply replace the test name/class name.
 
@@ -29,6 +36,6 @@ or
 ```~/gradlew gatlingRun-com.concur.[test-name-here]```
 
 # Other references
-Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
-Fake REST API https://jsonplaceholder.typicode.com/
-Gatling https://jsonplaceholder.typicode.com/
+* Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
+* Fake REST API https://jsonplaceholder.typicode.com/
+* Gatling https://jsonplaceholder.typicode.com/
