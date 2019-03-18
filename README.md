@@ -1,7 +1,7 @@
 # gatling-gradle
 A Gatling gradle demo project using JSON Placeholder Typicode sample API
 
-https://jsonplaceholder.typicode.com/
+https://github.com/typicode/json-server
 
 # Prerequisites
 You will need the following pre-installed (If not then install them and ensure Java and Scala are added to your PATH) 
@@ -11,8 +11,14 @@ You will need the following pre-installed (If not then install them and ensure J
 * Scala SDK (once installed add to your PATH)
 * IntelliJ Scala Plugin
 
-# Setup your environment
-* Clone project
+# Setup your local server
+* Clone https://github.com/typicode/json-server
+* Run ```npm install```
+* Run ```npm start```
+* This bring up your local server pointing to ```http://localhost:3000```
+
+# Setup your Gatling environment
+* Clone this project
 * Import/open the project into IntelliJ
 * Ensure you have Auto-import checked
 * Once imported, the project will automatically build
