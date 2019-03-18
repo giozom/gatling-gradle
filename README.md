@@ -11,11 +11,11 @@ You will need the following pre-installed (If not then install them and ensure J
 * Scala SDK (once installed add to your PATH)
 * IntelliJ Scala Plugin
 
-# Setup your local server
+# Setup your local API server 
 * Clone https://github.com/typicode/json-server
 * Run ```npm install```
 * Run ```npm start```
-* This bring up your local server pointing to ```http://localhost:3000```
+* This bring up your local API server pointing to ```http://localhost:3000```
 
 # Setup your Gatling environment
 * Clone this project
