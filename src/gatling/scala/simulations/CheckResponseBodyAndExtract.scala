@@ -12,7 +12,7 @@ class CheckResponseBodyAndExtract extends BaseSimulation{
     //Verify response body using JSONPath
     .exec(http("Get PostID 1")
       .get("posts/1")
-      .check(jsonPath("$.title").is("sunt aut facere repellat provident occaecati excepturi optio reprehenderit")))
+      .check(jsonPath("$.title").is("json-server")))
 
   //define load
   setUp(

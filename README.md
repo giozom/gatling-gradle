@@ -37,11 +37,11 @@ Then ***right click*** on the main method (i.e. ```def main(args: Array[String])
 You will find the test report in this location ```~/build/reports/.../index.html ```
 
 # Running test using the gradle task
-```~/gradlew gatlingRun``` - Executes all Gatling simulations configured by extension
+* ```$ gradle gatlingRun``` - Executes all Gatling simulations configured by extension
 
 or
 
-```$ gradle gatlingRun-com.project.simu.MySimulation - Executes single Gatling simulation
+* ```$ gradle gatlingRun-com.project.simu.MySimulation``` - Executes single Gatling simulation
 
 
 # Other references
