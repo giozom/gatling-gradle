@@ -23,25 +23,19 @@ You will need the following pre-installed (If not then install them and ensure J
 * Ensure you have Auto-import checked
 * Once imported, the project will automatically build
 
-# Using the Gatling runner
+# Using the Gatling test runner to execute tests
 * Use the Gatling runner (```MyGatlingRunner```) to run your test separately. (one at a time)
 * Open MyGatlingRunner file, and right click on the main method to run the test specified in ```..classOf[MyFirstTest]```
 
 Simply replace the test name/class name.
 
-i.e. ```val simClass = classOf[***test_name_here***].getName```
+*i.e. ```val simClass = classOf[***test_name_here***].getName```
+* Example: ```    val simClass = classOf[MyFirstTest].getName```
 
 Then ***right click*** on the main method (i.e. ```def main(args: Array[String]):``` and click ***Run 'MyGatlingRunner'***
 
 # Reporting
-You will find the test report in this location ```~/build/reports/.../index.html ```
-
-# Running test using the gradle task
-* ```$ gradle gatlingRun``` - Executes all Gatling simulations configured by extension
-
-or
-
-* ```$ gradle gatlingRun-com.project.simu.MySimulation``` - Executes single Gatling simulation
+You will find the test report in this location ```~\gatling-gradle\results\...\index.html ```
 
 
 # Other references
