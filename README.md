@@ -43,6 +43,7 @@ or
 
 ```$ gradle gatlingRun-com.project.simu.MySimulation - Executes single Gatling simulation
 
+
 # Other references
 * Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
 * Fake REST API https://jsonplaceholder.typicode.com/
