@@ -31,9 +31,11 @@ Then ***right click*** on the main method (i.e. ```def main(args: Array[String])
 You will find the test report in this location ```~/build/reports/.../index.html ```
 
 # Running test using the gradle task
-```~/gradlew gatlingRun```
+```~/gradlew gatlingRun``` - Executes all Gatling simulations configured by extension
+
 or
-```~/gradlew gatlingRun-com.concur.[test-name-here]```
+
+```$ gradle gatlingRun-com.project.simu.MySimulation - Executes single Gatling simulation
 
 # Other references
 * Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
