@@ -15,14 +15,19 @@ class CheckResponseBodyAndExtract extends BaseSimulation{
       .get("posts/1")
       .check(jsonPath("$.title").is("json-server")))
 
-//Get all posts and extract Post id 2 and save in variable `postId'
+      //Get all posts and extract Post id 2 and save in variable `postId'
       .exec(http("Get All Posts")
       .get("posts")
-      .check(jsonPath("$[1].id").saveAs("postId")))
+      .check(jsonPath("$[1].id").saveAs("myPostId")))
 
-//Get specific post. In this case Post Id 2
+    //Print all the values within a session with this function literal.
+    .exec { session =>
+      println(session)
+      session }
+
+    //Get specific post. In this case Post Id 2
     .exec(http("Get Specific Post")
-      .get("posts/${postId}")
+      .get("posts/${myPostId}")
       .check(jsonPath("$.title").is("json-server-2")))
 
   //define load
