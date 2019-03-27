@@ -28,7 +28,13 @@ class CheckResponseBodyAndExtract extends BaseSimulation{
     //Get specific post. In this case Post Id 2
     .exec(http("Get Specific Post")
       .get("posts/${myPostId}")
-      .check(jsonPath("$.title").is("json-server-2")))
+      .check(jsonPath("$.title").is("json-server-2"))
+      .check(bodyString.saveAs("responseBody"))) //Display responseBody
+
+    .exec { session =>
+      println(session("responseBody").as[String])
+      session
+  }
 
   //define load
   setUp(
