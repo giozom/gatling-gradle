@@ -1,7 +1,7 @@
 # gatling-gradle
 A Gatling gradle demo project using JSON Placeholder Typicode sample API
 
-https://github.com/typicode/json-server
+https://github.com/giozom/json-server
 
 # Prerequisites
 You will need the following pre-installed (If not then install them and ensure Java and Scala are added to your PATH) 
@@ -12,7 +12,7 @@ You will need the following pre-installed (If not then install them and ensure J
 * IntelliJ Scala Plugin
 
 # Setup your local API server 
-* Clone https://github.com/typicode/json-server
+* Clone https://github.com/giozom/json-server**
 * Run ```npm install```
 * Run ```npm start```
 * This bring up your local API server pointing to ```http://localhost:3000```
@@ -40,5 +40,5 @@ You will find the test report in this location ```~\gatling-gradle\results\...\i
 
 # Other references
 * Gatling cheat sheet https://gatling.io/docs/current/cheat-sheet
-* Fake REST API https://jsonplaceholder.typicode.com/
-* Gatling https://jsonplaceholder.typicode.com/
+* Fake REST API https://github.com/giozom/json-server
+* Gatling https://gatling.io
